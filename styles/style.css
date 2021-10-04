@@ -277,6 +277,11 @@ footer h1 {
   html {
     font-size: 50%;
   }
+  nav {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+  }
   nav #logo {
     -webkit-box-flex: 1;
         -ms-flex: 1;
